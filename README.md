@@ -5,3 +5,5 @@
   - [osTicket: Prerequisites and Installation](https://github.com/alexander-t1bb1ts/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/alexander-t1bb1ts/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/alexander-t1bb1ts/ticket-lifecycle)
+- <b>Setting up a Virtual Private Network (VPN) on a Virtual Machine (VM)
+-   [VMVPN](https://github.com/alexander-t1bb1ts/VMVPN)
